@@ -11,3 +11,4 @@ Animation created with opencv and numpy.
 
 ### Demo Image
 
+![demo.png](https://github.com/mehmetozturk4705/sierpinski/blob/main/images/demo.png)
