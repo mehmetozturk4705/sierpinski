@@ -2,7 +2,7 @@ import numpy as np
 import cv2
 
 
-def sapinski_animation():
+def sierpinski_animation():
     image = np.zeros((500, 500, 3), dtype=np.uint8)
     image += 255
 
@@ -54,4 +54,4 @@ def sapinski_animation():
 
 
 if __name__=='__main__':
-    sapinski_animation()
+    sierpinski_animation()
